@@ -27,7 +27,7 @@
 
 <hr>
 
-**NOTE:** Please visit the website: [https://zhenglinlei.github.io/stainx-nft](https://zhenglinlei.github.com/stainx-nft)
+**NOTE:** Please visit the website: [https://zhenglinlei.github.io/stainx-nft](https://zhenglinlei.github.io/stainx-nft)
 
 
 # 01. What is this?
@@ -36,7 +36,7 @@ StainX Collection is a collection of NFTs selled in <a href="https://opensea.io/
 
 # 02. More information?
 
-For more information in our website [https://zhenglinlei.github.io/stainx-nft](https://zhenglinlei.github.com/stainx-nft), or follow the community <a href="https://opensea.io/collection/stainx">OpenSea</a>, <a href="https://twitter.com/StainX_NFT">Twitter</a>, <a href="https://discord.com/invite/AdxeAHA2Kf">Discord</a>, <a href="https://www.instagram.com/stainx_nft">Instagram</a>
+For more information in our website [https://zhenglinlei.github.io/stainx-nft](https://zhenglinlei.github.io/stainx-nft), or follow the community <a href="https://opensea.io/collection/stainx">OpenSea</a>, <a href="https://twitter.com/StainX_NFT">Twitter</a>, <a href="https://discord.com/invite/AdxeAHA2Kf">Discord</a>, <a href="https://www.instagram.com/stainx_nft">Instagram</a>
 
 # 03. Why we use GitHub pages to host our project website?
 
